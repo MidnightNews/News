@@ -1,3 +1,8 @@
+Update 30 May 2022|
+<color=red>Self-registration in white list during a DDoS-attack</color>
+Great news. While the bad guys are attacking our server, you can whitelist your IP address in a couple of seconds. To do this, go to the discord server of our game in the #whitelist-ipv4 channel and click the "Add to whitelist" button
+|https://media.discordapp.net/attachments/954462981670994030/980924213462462564/9fc12f9fc06682a0.png|https://discord.com/channels/954461476771463170/954462981670994030/980924213676343387||
+!
 Update 22 May 2022|
 <color=red>Whitelisted login during a DDoS-attack</color>
 Due to the fact that a team of bad guys is trying to kill our server with a DDoS attack, whitelist access has been put into effect at this stage. In order to add your IP address to the whitelist, you need to click on #submit-a-ticket and on Create ticket. Send your IP address to the generated ticket. We hope that temporary difficulties will not cause you big troubles. Have a nice game
