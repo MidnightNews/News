@@ -1,6 +1,22 @@
-<color=red>31 Aug 2025</color>||https://i.postimg.cc/50Tsr6xW/IMG-20250828-061457-285.jpg|https://discord.com/channels/1179982235001180261/1179989618377097276/1411580849597710398||
-!
-<color=red>22 Aug 2025</color>||https://i.postimg.cc/QNSXtJMs/Laimochka-Eventreduced.png|https://discord.com/channels/1179982235001180261/1179989618377097276/1408423478134312970||
+<color=red>28 Aug 2025</color>|Added the ability to control the character using the keyboard:
+
+• <b>W</b> - forward,
+• <b>A</b> - left,
+• <b>S</b> - back,
+• <b>D</b> - right,
+• <b>Shift</b> - run,
+• <b>Space</b> - jump.
+
+-----
+
+Добавлена возможность управления персонажем с помощью клавиатуры:
+
+• <b>W</b> - вперед,
+• <b>A</b> - влево,
+• <b>S</b> - назад,
+• <b>D</b> - вправо,
+• <b>Shift</b> - бег,
+• <b>Space</b> - прыжок.
 !
 <color=red>20 Aug 2025</color>|• The function of carrying a partner in your arms has been implemented.
 
