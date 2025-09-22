@@ -1,3 +1,17 @@
+<color=red>22 Sep 2025</color>|• Added collapsible settings in chat settings,
+• fixed profile background,
+• reworked WASD synchronization,
+• fixed a bug where triggers were visible in locations,
+• reworked client synchronization, characters should now walk in place less often.
+
+-----
+
+• Добавлено сворачивание настроек в настройках чата,
+• исправлен фон профиля,
+• переработана синхронизация WASD,
+• пофикшен баг, при котором в локациях были видны триггеры,
+• переработана синхронизация клиента, теперь персонажи должны реже идти на месте.
+!
 <color=red>20 Sep 2025</color>||https://i.postimg.cc/63Z4PbYY/news-20250920.png|https://discord.com/channels/1179982235001180261/1179989408393461770/1419096318084649062||
 !
 <color=red>chat.midnight3d.in</color>|A web chat version has been added to the premium feature, accessible via a browser on PCs and mobile devices.
