@@ -1,3 +1,15 @@
+<color=red>11 May 2026</color>|• Added new women's clothing (74 pieces)
+• Added the ability to mix faces in the closet and select ears
+• Added a "Fishing" minigame. You need to wade into waist-deep water and press <b>F8</b> (will be expanded and refined)
+• Various bug fixes: WASD running fix, drop-off issue when wearing items, world loading fix, clothing loading fix, player video stream (cache) clearing fix, etc
+
+-----
+
+• Добавили новую женскую одежду (74 шт.)
+• Добавили возможность микса лиц в шкафу и выбора ушей
+• Добавили мини-игру "Рыбалка". Необходимо войти в воду по пояс и нажать клавишу F8 (будет расширяться и дорабатываться)
+• Фикс различных багов: фикс бега WASD, фикс сбрасывания с рук при ношении, фикс загрузки мира, фикс загрузки одежды, фикс очистки видеопотока в плеере (кэша) и прочее
+!
 <color=red>09 May 2026</color>|<b>From May 9th to May 11th</b>, there's a special promotion – a <b>25%</b> discount on all donations.
 Get diamonds/coins for your donations in-game via the "<b>Get support</b>" button or on Discord via the ⁠"<b>create-ticket</b>" button.
 
