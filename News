@@ -1,3 +1,13 @@
+<color=red>20 May 2026</color>|• We've implemented a ticket system in the game (you can ask the administration a question using the "<b>Support</b>" button in the upper right corner).
+• A second vehicle, the yacht, has been added for premium users (see the "<b>Boat</b>" button in the "Premium Abilities" panel).
+• We've reworked the vehicle system: it can no longer be lowered below ground or water (the yacht operates exclusively on water), it doesn't pass through textures, etc. To start the vehicle, you need to start it using the "<b>Start</b>" button.
+
+-----
+
+• Внедрили систему тикетов в игре (задать вопрос администрации можно по кнопке "<b>Support</b>" в правом верхнем углу).
+• Для премиум-пользователей добавлен второй транспорт - яхта (на панели "Prem Abilities" кнопка "<b>Boat</b>").
+• Переработали систему транспорта: теперь его невозможно опустить ниже земли/воды (яхта работает исключительно на воде), он не проходит сквозь текстуры и т.д. Чтобы транспорт поехал, его нужно завести кнопкой "<b>Start</b>".
+!
 <color=red>14 May 2026</color>|• Added new men's clothing (39 pieces)
 
 -----
