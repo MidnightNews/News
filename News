@@ -1,3 +1,13 @@
+<color=red>24 May 2026</color>|• Fixed a reconnect issue when entering your location.
+• Fixed male hairstyles.
+• Added a drunkenness effect after drinking alcohol.
+
+-----
+
+• Пофиксили реконнект при входе в свою локацию.
+• Пофиксили мужские прически.
+• Добавили эффект опьянения после употребления алкоголя.
+!
 <color=red>20 May 2026</color>|• We've implemented a ticket system in the game (you can ask the administration a question using the "<b>Support</b>" button in the upper right corner).
 • A second vehicle, the yacht, has been added for premium users (see the "<b>Boat</b>" button in the "Premium Abilities" panel).
 • We've reworked the vehicle system: it can no longer be lowered below ground or water (the yacht operates exclusively on water), it doesn't pass through textures, etc. To start the vehicle, you need to start it using the "<b>Start</b>" button.
